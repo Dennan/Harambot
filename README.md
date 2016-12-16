@@ -10,3 +10,4 @@ Discord bot with the following features:
   - team creation + assignment, room permissions, result tracking
 - Promotion announcements
 - Reddit listener
+- Hearthstone database, league champions, pokedex, etc
